@@ -18,5 +18,6 @@ public class Main {
         int a = p.product(10,20);
         int b = p.product(10,20,30);
         double c = p.product(10.0,20.0);
+        System.out.println(a+" "+b+" "+c);
     }
 }
